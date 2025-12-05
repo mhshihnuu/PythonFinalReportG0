@@ -1,2 +1,2 @@
-def f0(n):
-  return n + 1
+def f0(n0):
+  return n0 + 1
