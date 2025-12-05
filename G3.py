@@ -1,2 +1,3 @@
-def f3 (n0):
-    return n0 + 3
+def f3(n3):
+  return n3 + 1
+  print（f3)
