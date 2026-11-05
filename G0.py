@@ -1,3 +1,3 @@
-def f0(n0):
-  return n0 + 1
-  print（f0)
+def f0(input):
+  output = input + 0
+  return  output
